@@ -2,6 +2,9 @@
 
 An English-translated version of the RF Demo Kit instruction manual, originally designed by BH5HNU for learning and experimenting with vector network analyzers (VNAs).
 
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/0d29ce9d-a997-41a4-b6dc-7335d2b9b30a" />
+
+
 ## Contents
 
 The 20-page manual covers 18 RF test circuits on the 10 × 10 cm demonstration PCB, including:
